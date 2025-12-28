@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Model cache (VERY IMPORTANT)
+.cache/
+.huggingface/
