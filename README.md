@@ -2,6 +2,11 @@
 
 An AI-powered application designed to address urban challenges by providing intelligent suggestions, data-driven insights, summaries, and eco-friendly advice. The system is built with a modular architecture and an interactive dashboard for analysis and visualization.
 
+
+ 🚀 Live Demo
+🔗 https://sustainable-smart-city-assistant-ravsnhrnebis4rvdqqq3s2.streamlit.app/
+
+
 📌 Project Overview
 
 Rapid urbanization has led to issues such as pollution, resource mismanagement, and sustainability challenges.
