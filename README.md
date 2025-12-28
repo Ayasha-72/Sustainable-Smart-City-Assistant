@@ -64,15 +64,3 @@ Transformers (Local Model) – AI text generation
 
 Git & GitHub – Version control
 
-📂 Project Structure
-Sustainable-Smart-City-Assistant/
-│
-├── app.py               # Main Streamlit app
-├── chatbot.py           # Urban issue chatbot logic
-├── dashboard.py         # Data analysis and visualization
-├── summarizer.py        # Text summarization module
-├── eco_advisor.py       # Eco tip advisory module
-├── model_loader.py      # Local AI model loading
-├── requirements.txt     # Python dependencies
-├── .gitignore           # Ignored files/folders
-└── README.md            # Project documentation
